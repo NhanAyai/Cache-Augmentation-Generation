@@ -49,9 +49,9 @@ An implementation of Cache-Augmented Generation (CAG) from scratch, with insight
 
 ## 📚 References
 
-- [Cache-Augmented Generation Medium Article]([#](https://medium.com/@jagadeesan.ganesh/cache-augmented-generation-cag-the-next-frontier-in-llm-optimization-d4c83e31ba0b))
-- [Official CAG GitHub Repository]([#](https://github.com/hhhuang/CAG))
-- [Exploring the Shift from Traditional RAG to CAG]([#](https://medium.com/@ajayverma23/exploring-the-shift-from-traditional-rag-to-cache-augmented-generation-cag-a672942ab420))
+- [Cache-Augmented Generation Medium Article](https://medium.com/@jagadeesan.ganesh/cache-augmented-generation-cag-the-next-frontier-in-llm-optimization-d4c83e31ba0b)
+- [Official CAG GitHub Repository](https://github.com/hhhuang/CAG)
+- [Exploring the Shift from Traditional RAG to CAG](https://medium.com/@ajayverma23/exploring-the-shift-from-traditional-rag-to-cache-augmented-generation-cag-a672942ab420)
 
 ## 📜 License
 
