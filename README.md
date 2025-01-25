@@ -45,7 +45,7 @@ An implementation of Cache-Augmented Generation (CAG) from scratch, with insight
 
 ## 📊 Workflow Diagram
 
-![CAG Workflow Diagram](#) *(Replace this section with an image of your workflow diagram for CAG.)*
+![CAG Workflow Diagram](https://github.com/user-attachments/assets/4921d1d8-5527-4e42-acc7-1af8889ee871) *(Replace this section with an image of your workflow diagram for CAG.)*
 
 ## 📚 References
 
