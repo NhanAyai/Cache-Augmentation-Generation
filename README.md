@@ -1,6 +1,6 @@
 # 🚀 Cache-Augmented Generation (CAG) 🧠
 
-An implementation of Cache-Augmented Generation (CAG) from scratch, with insights on its advantages, limitations, and future enhancements.
+An implementation of Cache Augmented Generation (CAG) from scratch, with insights on its advantages, limitations, and future enhancements.
 
 ## 📓 Notebook Overview
 
